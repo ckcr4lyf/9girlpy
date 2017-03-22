@@ -1,5 +1,5 @@
 # 9girlpy
-Auto-download pics from 9gag.com/girl ( ͡° ͜ʖ ͡°)
+Auto-download pics from https://9gag.com/girl ( ͡° ͜ʖ ͡°)
 
 WARNING: This code was written 3 years ago when I was in 10th grade. So shitty coding. I tested it today and it seemed to be working, so okay I guess. 
 
