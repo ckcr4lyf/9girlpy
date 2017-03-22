@@ -2,6 +2,7 @@
 Auto-download pics from https://9gag.com/girl ( ͡° ͜ʖ ͡°)
 
 WARNING: This code was written 3 years ago when I was in 10th grade. So shitty coding. I tested it today and it seemed to be working, so okay I guess. 
+I did make a C# version in 2015 so if I find it I'll upload that as well!
 
 Coded for python 2.7
 
