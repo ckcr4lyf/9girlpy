@@ -1,3 +1,5 @@
+(Deprecated)
+
 # 9girlpy
 Auto-download pics from https://9gag.com/girl ( ͡° ͜ʖ ͡°)
 
